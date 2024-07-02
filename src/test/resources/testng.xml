@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite" verbose="1" parallel="none">
+
+	<listeners>
+		<listener class-name="api.utilities.ExtentReportListener" />
+	</listeners>
+	<test name="APITests">
+		<classes>
+			<class name="api.tests.UserTest">
+				<methods>
+					<exclude name="getUserTest" />
+				</methods>
+			</class>
+			<class name="api.tests.DDTests">
+			</class>
+		</classes>
+	</test>
+
+</suite>

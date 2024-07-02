@@ -1,0 +1,55 @@
+2024-06-19 01:36:12 [main] INFO  api.tests.UserTest - Starting tests in UserTest
+2024-06-19 01:36:12 [main] INFO  api.tests.UserTest - creating User
+2024-06-19 01:36:17 [main] INFO  api.tests.UserTest - Update User
+2024-06-19 01:36:21 [main] INFO  api.tests.UserTest - Delete
+2024-06-19 01:38:33 [main] INFO  api.tests.UserTest - Starting tests in UserTest
+2024-06-19 01:38:34 [main] INFO  api.tests.UserTest - creating User
+2024-06-19 01:38:39 [main] INFO  api.tests.UserTest - Update User : joy.kling
+2024-06-19 01:38:43 [main] INFO  api.tests.UserTest - Delete user : joy.kling
+2024-06-19 01:50:12 [main] INFO  api.tests.UserTest - Starting tests in UserTest
+2024-06-19 01:50:12 [main] INFO  api.tests.UserTest - creating User
+2024-06-19 01:50:17 [main] INFO  api.tests.UserTest - Update User : ailene.jenkins
+2024-06-19 01:50:21 [main] INFO  api.tests.UserTest - Delete user : ailene.jenkins
+2024-06-19 01:50:23 [main] INFO  api.tests.DDTests - Starting tests in DDTests
+2024-06-19 01:50:25 [main] INFO  api.tests.DDTests - Creating user: user1
+2024-06-19 01:50:26 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:50:26 [main] INFO  api.tests.DDTests - Creating user: user2
+2024-06-19 01:50:27 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:50:27 [main] INFO  api.tests.DDTests - Creating user: user3
+2024-06-19 01:50:29 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:50:29 [main] INFO  api.tests.DDTests - Deleting user: user1
+2024-06-19 01:50:32 [main] INFO  api.tests.DDTests - Deleting user: user2
+2024-06-19 01:50:34 [main] INFO  api.tests.DDTests - Deleting user: user3
+2024-06-19 01:53:57 [main] INFO  api.tests.UserTest - Starting tests in UserTest
+2024-06-19 01:53:57 [main] INFO  api.tests.UserTest - creating User
+2024-06-19 01:54:02 [main] INFO  api.tests.UserTest - Update User : andres.grimes
+2024-06-19 01:54:06 [main] INFO  api.tests.UserTest - Delete user : andres.grimes
+2024-06-19 01:54:08 [main] INFO  api.tests.DDTests - Starting tests in DDTests
+2024-06-19 01:54:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-19 01:54:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-19 01:54:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-06-19 01:54:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-19 01:54:09 [main] DEBUG api.tests.DDTests - Received user data: id=1001, username=user1, firstName=John, lastName=Kennedy, email=john@gmail.com, password=test@1, phone=
+2024-06-19 01:54:09 [main] DEBUG api.tests.DDTests - Parsed user ID: 1001
+2024-06-19 01:54:09 [main] INFO  api.tests.DDTests - Creating user: user1
+2024-06-19 01:54:10 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:54:10 [main] DEBUG api.tests.DDTests - Received user data: id=1002, username=user2, firstName=Paul, lastName=Williams, email=paul@gmail.com, password=test@2, phone=
+2024-06-19 01:54:10 [main] DEBUG api.tests.DDTests - Parsed user ID: 1002
+2024-06-19 01:54:10 [main] INFO  api.tests.DDTests - Creating user: user2
+2024-06-19 01:54:11 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:54:11 [main] DEBUG api.tests.DDTests - Received user data: id=1003, username=user3, firstName=Tom, lastName=Holand, email=tom@gmail.com, password=test@3, phone=
+2024-06-19 01:54:11 [main] DEBUG api.tests.DDTests - Parsed user ID: 1003
+2024-06-19 01:54:11 [main] INFO  api.tests.DDTests - Creating user: user3
+2024-06-19 01:54:13 [main] INFO  api.tests.DDTests - User created successfully
+2024-06-19 01:54:13 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-19 01:54:13 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-19 01:54:13 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-06-19 01:54:13 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-19 01:54:13 [main] INFO  api.tests.DDTests - Deleting user: user1
+2024-06-19 01:54:15 [main] INFO  api.tests.DDTests - User deleted successfully
+2024-06-19 01:54:15 [main] INFO  api.tests.DDTests - Deleting user: user2
+2024-06-19 01:54:18 [main] INFO  api.tests.DDTests - User deleted successfully
+2024-06-19 01:54:18 [main] INFO  api.tests.DDTests - Deleting user: user3
+2024-06-19 01:54:21 [main] INFO  api.tests.DDTests - User deleted successfully
+2024-06-19 01:54:21 [main] WARN  api.tests.DDTests - This test was skipped intentionally or due to dependencies
+2024-06-19 01:54:21 [main] INFO  api.tests.DDTests - Completed tests in DDTests
